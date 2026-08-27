@@ -3,20 +3,20 @@ let Age= "31"
 console.log(Age)
 console.log(typeof(Age))
 
-let AgeInNumber = Number(Age)
+// let AgeInNumb = Number(Age)
 
-console.log(AgeInNumber)
-console.log(typeof AgeInNumber)
+// console.log(AgeInNumb)
+// console.log(typeof AgeInNumb)
 
-Age="31sasdasd"
+// Age="31sasdasd"
 
-console.log(Age)
-console.log(typeof(Age))
+// console.log(Age)
+// console.log(typeof(Age))
 
-AgeInNumber = Number(Age)
+// AgeInNumb = Number(Age)
 
-console.log(AgeInNumber)
-console.log(typeof AgeInNumber)
+// console.log(AgeInNumb)
+// console.log(typeof AgeInNumb)
 
 
 // let Status = "1"
@@ -43,3 +43,27 @@ let StringValue= String (Value)
 
 console.log(typeof StringValue)
 console.log(StringValue)
+
+
+// .......Operations........
+
+console.log(10+2)
+console.log(10-3)
+console.log(10*3)
+console.log(10/3)
+console.log(10%3)
+console.log(10**3)
+
+
+console.log(1+2+"3")
+console.log("1"+2+3)
+
+
+let Number=30
+
+console.log(Number++)
+console.log(++Number)
+
+
+console.log(Number--)
+console.log(--Number)
